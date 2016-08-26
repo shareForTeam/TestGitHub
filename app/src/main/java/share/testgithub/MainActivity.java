@@ -14,4 +14,10 @@ public class MainActivity extends AppCompatActivity {
     private  void init(){
 
     }
+    private void getNum(){
+
+    }
+    private static void lyj(){
+
+    }
 }

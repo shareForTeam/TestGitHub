@@ -20,4 +20,6 @@ public class MainActivity extends AppCompatActivity {
     private static void lyj(){
 
     }
+
+    private void hkc(){}
 }

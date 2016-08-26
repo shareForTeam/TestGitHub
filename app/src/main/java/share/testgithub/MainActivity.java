@@ -14,9 +14,10 @@ public class MainActivity extends AppCompatActivity {
     private  void init(){
 
     }
-
-    private void hkc_text(){
+    private void getNum(){
 
     }
+    private static void lyj(){
 
+    }
 }
